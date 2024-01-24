@@ -660,6 +660,11 @@ nav img {
     #footer-div { 
         font-size: 5vh;
     }
+    #page5 {
+        height: 60vh;
+        width: 100%;
+        /* background-color: #EFEAE3; */
+    }
 }
 
 #loader{
